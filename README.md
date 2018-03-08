@@ -29,3 +29,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 command:-
 
 ng generate service data
+
+ng build
+
+ng build --prod
+
+ng build --prod --base-href="myurl"
+
+npm install -g angular-cli-ghpages
