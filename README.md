@@ -37,3 +37,8 @@ ng build --prod
 ng build --prod --base-href="myurl"
 
 npm install -g angular-cli-ghpages
+
+// to publish to github, install - npm install -g gh-pages
+1.) ng build --prod --base-href="https://rahulsingh336.github.io/angular-5-ng/"
+
+2.) angular-cli-ghpages // it will publish and show success message.
